@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 环境 / 虚拟环境
+.env
+.venv/
+
+# 数据库文件
+*.db
+*.db-journal
+
+# 临时文件
+*.tmp
+*.log
+
+# AI 配置（不要推送到公开仓库）
+.agents/
+.reasonix/
+
+# Word 临时文件
+~$*.docx
